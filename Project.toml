@@ -1,0 +1,4 @@
+name = "Bogoliubov"
+uuid = "192b6be4-e59f-11e9-13d6-13ed09b0e91c"
+authors = ["Rodney Polkinghorne <rpolkinghorne@swin.edu.au>"]
+version = "0.1.0"
